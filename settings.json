@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Server_God",
   "bot-account": {
-    "username": "Cool_alex1",
+    "username": "Server_God",
     "password": "12345678",
     "type": "offline"
   },
   "server": {
-    "ip": "brother-opSmp.aternos.me",
-    "port": 59607,
+    "ip": "ItzVoidCraftSMPS2.aternos.me",
+    "port": 56233,
     "version": "1.20.1",
     "try-creative": false
   },
